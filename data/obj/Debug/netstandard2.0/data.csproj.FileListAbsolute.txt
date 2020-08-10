@@ -1,0 +1,4 @@
+F:\_projects\bestoresto\data\obj\Debug\netstandard2.0\data.csprojAssemblyReference.cache
+F:\_projects\bestoresto\data\obj\Debug\netstandard2.0\data.AssemblyInfoInputs.cache
+F:\_projects\bestoresto\data\obj\Debug\netstandard2.0\data.AssemblyInfo.cs
+F:\_projects\bestoresto\data\obj\Debug\netstandard2.0\data.csproj.CoreCompileInputs.cache

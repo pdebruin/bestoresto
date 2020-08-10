@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "2y9Dfd6RbZ1lDNL0VCJp7WhPnXM9MCj/CUrrF7FjwJ9jhrc4E8G0xoRx42pRbR5eAWVB0zeQkSBsTwCGHIsuaA==",
+  "success": true,
+  "projectFilePath": "F:\\_projects\\bestoresto\\web\\web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pwje\\.nuget\\packages\\google.protobuf\\3.12.4\\google.protobuf.3.12.4.nupkg.sha512",
+    "C:\\Users\\pwje\\.nuget\\packages\\grpc.core.api\\2.30.0-pre1\\grpc.core.api.2.30.0-pre1.nupkg.sha512",
+    "C:\\Users\\pwje\\.nuget\\packages\\grpc.net.client\\2.30.0\\grpc.net.client.2.30.0.nupkg.sha512",
+    "C:\\Users\\pwje\\.nuget\\packages\\grpc.net.common\\2.30.0\\grpc.net.common.2.30.0.nupkg.sha512",
+    "C:\\Users\\pwje\\.nuget\\packages\\grpc.tools\\2.31.0\\grpc.tools.2.31.0.nupkg.sha512",
+    "C:\\Users\\pwje\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\pwje\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\pwje\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

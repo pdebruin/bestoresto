@@ -1,0 +1,9 @@
+F:\_projects\bestoresto\data\obj\Debug\netcoreapp3.1\data.csprojAssemblyReference.cache
+F:\_projects\bestoresto\data\obj\Debug\netcoreapp3.1\data.AssemblyInfoInputs.cache
+F:\_projects\bestoresto\data\obj\Debug\netcoreapp3.1\data.AssemblyInfo.cs
+F:\_projects\bestoresto\data\obj\Debug\netcoreapp3.1\data.csproj.CoreCompileInputs.cache
+F:\_projects\bestoresto\data\bin\Debug\netcoreapp3.1\data.deps.json
+F:\_projects\bestoresto\data\bin\Debug\netcoreapp3.1\data.dll
+F:\_projects\bestoresto\data\bin\Debug\netcoreapp3.1\data.pdb
+F:\_projects\bestoresto\data\obj\Debug\netcoreapp3.1\data.dll
+F:\_projects\bestoresto\data\obj\Debug\netcoreapp3.1\data.pdb

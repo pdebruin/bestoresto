@@ -1,0 +1,22 @@
+@page "/restos"
+@using Grpc.Net.Client;
+@using api;
+
+<h1>Restos</h1>
+
+<p>Current resto: @myresto</p>
+
+<button class="btn btn-primary" @onclick="GetRestos">Click me</button>
+
+@code {
+    private string myresto = "0";
+
+    private async Task GetRestos()
+    {
+        using var channel = GrpcChannel.ForAddress("https://localhost:5001");
+        var client = new Restomgr.RestomgrClient(channel);
+        var reply = await client.GetRestoAsync(new RestoRequest{Name="test"});
+
+        myresto = reply.Message;
+    }
+}

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "api";
+
+package resto;
+
+service Restomgr {
+  rpc GetResto (RestoRequest) returns (RestoReply);
+}
+
+message RestoRequest {
+  string name = 1;
+}
+
+message RestoReply {
+  string message = 1;
+}
